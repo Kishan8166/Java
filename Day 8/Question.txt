@@ -6,7 +6,9 @@ Int: It can hold a 32-bit signed integer
 Long: It can hold a 64-bit signed integer
 Given an input, we have to print which of these datatypes are capable of storing it.
 
-Byte has 8 bits of space out of which 1 bit is reserved for the sign. Hence only 7 bits are available. Thus a bit can store values between -2^7 and 2^7 – 1. Which is equivalent to -128 to 127.
+Test Cases:- 
+
+Byte has 8 bits of space out of which 1 bit is reserved for the sign. Hence only 7 bits are available. Thus a bit can store values between -2^7 and 2^7 â€“ 1. Which is equivalent to -128 to 127.
 
 Similarly, short can store values between -2^15 and 2^15-1 i.e. 32768 to 32787.
 
