@@ -1,0 +1,71 @@
+Compiler Message
+Success
+Input (stdin)
+
+Download
+eqi wulp maq
+qni d
+m gugdsulk
+i f
+ds j
+s
+b e xfn
+cb
+g bukc
+hf wuoo imv g
+f su ia twh h
+e te wr ord
+sk f e j
+q
+glo v s
+s x deuwqj
+u
+gd upf mxdh h
+mrcw nx wx
+bvk wiq{-truncated-}
+
+Download to view the full testcase
+Expected Output
+
+Download
+1 eqi wulp maq
+2 qni d
+3 m gugdsulk
+Test Case 0
+4 i f
+5 ds j
+6 s
+7 b e xfn
+8 cb
+9 g bukc
+10 hf wuoo imv g
+11 f su ia twh h
+12 e te wr ord
+13 sk f e j
+14 q
+15 glo v s
+16 s x deuwqj
+17 u
+18 gd upf mxdh h
+19 mrcw nx wx
+20 bvk wiq{-truncated-}
+
+Test Case 1
+Compiler Message
+Success
+Input (stdin)
+1
+2
+3
+Hello world
+I am a file
+Read me until end—of—file.
+Expected Output
+2
+3
+1
+2
+3
+Hello world
+I am a file
+Read me until end-of—file.
