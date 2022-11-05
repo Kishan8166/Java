@@ -1,0 +1,3 @@
+If we compile the above program, we will be prompted by the compiler to
+enter the breadth and height of the parallelogram. We will then display the
+area of the parallelogram. An exception should be thrown if the user enters a negative width, i.e “java.lang.Exception: Breadth and height must be positive.
