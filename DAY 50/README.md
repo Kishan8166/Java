@@ -11,7 +11,7 @@ Sample Test case O
 Your Output (stdout)
 * 1. Hello I am a motorcycle, I am a cycle with an engine.
 * 2. My ancestor is a cycle who is a vehicle with pedals.
-Expected Output
 
+Expected Output
 * 1. Hello I am a motorcycle, I am a cycle with an engine.
 * 2. My ancestor is a cycle who is a vehicle with pedals.
