@@ -1,0 +1,2 @@
+This income tax calculator takes the input from the user as an integer and checks If the user's income is less than five lakhs, there is no income tax.
+If income is greater than five lakhs but less than ten lakhs, there is a 20 percent tax; and if it is greater than ten lakhs, there is a 30 percent tax.
